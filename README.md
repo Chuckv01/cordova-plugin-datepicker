@@ -1,5 +1,8 @@
 This is a fork from https://github.com/VitaliiBlagodir/cordova-plugin-datepicker
 
+Fix:
+- Added UIUserInterfaceStyle = Light into plist to fix this issue : https://github.com/VitaliiBlagodir/cordova-plugin-datepicker/issues/274
+
 # DatePicker Plugin for Cordova/PhoneGap 4.0 (iOS and Android and Windows)
 
 This is a combined version of DatePicker iOS and Android and Windows plugin for Cordova/Phonegap 4.0.
