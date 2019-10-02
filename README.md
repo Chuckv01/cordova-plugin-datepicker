@@ -1,3 +1,5 @@
+This is a fork from https://github.com/VitaliiBlagodir/cordova-plugin-datepicker
+
 # DatePicker Plugin for Cordova/PhoneGap 4.0 (iOS and Android and Windows)
 
 This is a combined version of DatePicker iOS and Android and Windows plugin for Cordova/Phonegap 4.0.
@@ -24,21 +26,8 @@ New in 0.8.0 (Android Only):
 - Local development workflow using [Cordova CLI](http://cordova.apache.org/docs/en/edge/)
 
 ```bash
-cordova plugin add cordova-plugin-datepicker
+cordova plugin add https://github.com/roxteddy/cordova-plugin-datepicker.git
 ```
-
-- Local development workflow using [PhoneGap CLI](http://phonegap.com/install/)
-
-```bash
-phonegap local plugin add cordova-plugin-datepicker
-```
-
-- Cloud-based development workflow using [PhoneGap Build](http://build.phonegap.com)
-
-```bash
-<gap:plugin name="cordova-plugin-datepicker" source="npm" />
-```
-
 
 ## Usage
 
